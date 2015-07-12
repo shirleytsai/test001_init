@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 ilocal new 
 insert secomdl
+=======
+from remote
+from remote 2 
+>>>>>>> 4fd4905820adee69ef8670a330b842bb9dff991e
