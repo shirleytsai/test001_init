@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-localyy
-=======
-yy
-gofo
 
-ggg
-vvvv
-
->>>>>>> 50cd790360a99ccbdb1d9d0b3d13cbd0911edea1
+ilocal new l
